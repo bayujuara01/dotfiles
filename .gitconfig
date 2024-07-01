@@ -1,0 +1,10 @@
+[pull]
+	twohead = ort
+	rebase = false
+[user]
+	name = bayuariefyanto
+	email = ariefyantobayu.dev@gmail.com
+[push]
+	autoSetupRemote = true
+[color]
+	ui = true
